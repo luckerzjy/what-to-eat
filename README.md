@@ -25,8 +25,8 @@
 - 后台数据增删改查功能
 
 ## 部分界面展示
-<img src="https://github.com/luckerzjy/what-to-eat/blob/master/choose.png" >
 
+查看仓库中 choose.png backend.png login.png
 
 ## 其他说明
 欢迎使用并提供改进意见，特别是美化界面，丑的没眼看，若有需要会一直维护项目
