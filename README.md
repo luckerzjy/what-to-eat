@@ -1,5 +1,7 @@
-# what-to-eat
-# 下一餐吃啥系统
+# 项目名称：基于JAVA的饭点选择困难症解决系统——“下一餐吃啥”
+
+## Attention
+:hatched_chick: 此项目为自娱自乐项目，喜欢的欢迎下载使用。
 
 JAVA GUI + mysql
 
